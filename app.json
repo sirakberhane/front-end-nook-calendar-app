@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "front-end-nook-calendar-app",
+    "slug": "front-end-nook-calendar-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "front-end-nook-calendar-app"
+}
