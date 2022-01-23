@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "front-end-nook-calendar-app",
+    "owner": "sirakberhane",
     "slug": "front-end-nook-calendar-app",
     "version": "1.0.0",
     "privacy": "public",
@@ -16,5 +17,7 @@
       "**/*"
     ]
   },
-  "name": "front-end-nook-calendar-app"
+  "name": "front-end-nook-calendar-app",
+  "title": "Front-End Nook Calendar App",
+  "description": "A Joke App"
 }
