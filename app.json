@@ -3,6 +3,15 @@
     "name": "front-end-nook-calendar-app",
     "slug": "front-end-nook-calendar-app",
     "version": "1.0.0",
+    "privacy": "public",
+    "ios": {
+      "bundleIdentifier": "com.sb.jokeapp",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.sb.jokeapp",
+      "versionCode": 1
+    },
     "assetBundlePatterns": [
       "**/*"
     ]
